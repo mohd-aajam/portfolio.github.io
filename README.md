@@ -2,6 +2,7 @@
 
 This is Mohd-Aajam Portfolio which includes work experience,schooling,skills
 
+Visit the site <a href="https://mohd-aajam.github.io/portfolio.github.io/">here</a>
 
 ### Connect with me:
 
